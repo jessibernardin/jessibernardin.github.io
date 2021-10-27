@@ -7,6 +7,8 @@ output:
     source_code: "https://github.com/jessibernardin/jessibernardin.github.io.git"
     theme: yeti
     logo: ./img/pitcherplant.png
+    fig_width: 6 
+    fig_height: 4 
 ---
 
 ```{r setup, include=FALSE}
@@ -27,10 +29,12 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 Research {.storyboard data-icon="fa-leaf"}
 =========================================
 
-### Dissertation Research  {data-commentary-width=400}
+### My dissertation research is focused on microbial communities, their functions, and identifying and understanding patterns that may be present across succession and elevation gradients. {data-commentary-width=400}
 
-```{r, out.width = '100%'}
-#knitr::include_graphics(paste0(here(),"/img/pictureofsarracenia"))
+
+```{r, out.width = '50%', fig.align='center', fig.cap= '*Sarracenia purpurea* as a model system for microbial community studies'}
+
+knitr::include_graphics(paste0(here(),"/img/IMG_4577.jpeg"))
 ```
 
 ***
@@ -51,35 +55,43 @@ Research {.storyboard data-icon="fa-leaf"}
  4. How does host prey type effect microbiome function?
  
 
-### Microbial function and host health {data-commentary-width=400}
+### Microbial function and host health 
 
+```{r, out.width = '75%'}
 
-```{r m1, out.width = '75%', echo=F, warning=F, message=F}
-suppressPackageStartupMessages({
-  #library(leaflet);
-  library(tidyverse);
-  library(sf);
-  library(mapview);
-  library(shiny);
-  library(plotly)
-})  
-
+knitr::include_graphics(paste0(here(),"/img/Bernardin_Proposal_Poster.jpg"))
 ```
-
-*** 
-
-### Effect of environmental extremes on microbial function.
-
- - 
-
-
-### Effect of altitude and successtion on microbial function.
-
 
 ***
 
+- Experiment Summer 2021
+
+### Effect of environmental extremes on microbial function
+
+```{r, out.width = '75%'}
+
+knitr::include_graphics(paste0(here(),"/img/Experimentt_2_table.png"))
+```
+
+***
+
+ - Experiment Spring 2022
+
+
+### Effect of altitude and succession on microbial function
+
+```{r, out.width = '75%'}
+
+knitr::include_graphics(paste0(here(),"/img/inat_pitcherplant_map.png"))
+```
+
+***
+
+- Experiment Summer 2022
+
 ### Effect of prey type on microbial function
 
+- Experiment Summer 2022
 
 
 Community {.storyboard data-icon="fa-globe"}
@@ -87,7 +99,16 @@ Community {.storyboard data-icon="fa-globe"}
 
 ### Sustainability Council
 
+- Green Lab Certification
+- Sustainability in Academics and Research Initiative
+- Campus as a Living Lab
+
 ### Planting Science Liason and Mentor  {data-commentary-width=400}
+
+- Planting Science promotes educational outreach, scientists share their passion for plants and science with the next generation of young scientists and students.
+- I work as a liaison and mentor with high school teachers and students to promote science literacy and confidence!
+- If you are interested in participating as a mentor visit the link below to sign up and get more information.
+- [Planting Science Website](https://plantingscience.org/)
 
 ### Undergraduate Mentorship
 
@@ -97,23 +118,23 @@ Community {.storyboard data-icon="fa-globe"}
 
 ***
 
-#### What we have been up to!
+#### **What we have been up to!**
 
  - Fall 2021, undergraduate researcher, Ace Pedraza is working on testing plant tissue nutrient levels to access host health after hosting divergent microbiomes.  Her lab research involves collecting data, analyzing data using R, and visualizing the results.  She anticipates presenting at the Spring 2022 Undergraduate Research Symposium at BSU.
  - Summer 2021 SARE student, Franco Nero worked on testing the effect of fly medium on growth rate and substrate use for bacterial communities traditionally grown on cricket medium.
 
 ***
 
-#### Want to get involved?
- - Undergraduate Research
- - Summer Research
- - VIP
+#### **Want to get involved?**
+ - [Undergraduate Research](https://www.boisestate.edu/undergraduate-research/get-involved/)
+ - [Summer Research](https://www.idahogem3.org/summer-authentic-research-experiences)
+ - [VIP](https://www.boisestate.edu/vip/about/)
  
 
 Media {data-icon="fa-television"}
 =========================================
 
-#### Time Lapse Video of *Sarracenia purpurea*
+#### **Time Lapse Video of *Sarracenia purpurea***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-AWqzzeRBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -130,14 +151,10 @@ Column {data-width=600}
 
 > *"When words are both true and kind, they can change the world”* - Buddha
 
-```{r out.height= '50%', fig.align='hold'}
+```{r out.height= '100%', fig.align='center'}
+knitr::include_graphics(paste0(here(),"/img/IMG_4590 2.jpeg"))
 knitr::include_graphics(paste0(here(),"/img/HFIM1244.jpeg"))
 knitr::include_graphics(paste0(here(),"/img/KNTZ2954.jpeg"))
-```
-
-***
-
-```{r out.height= '50%', fig.align='hold'}
 knitr::include_graphics(paste0(here(),"/img/IMG_4403.jpeg"))
 knitr::include_graphics(paste0(here(),"/img/IMG_4091.jpeg"))
 ```
