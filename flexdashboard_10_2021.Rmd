@@ -1,11 +1,12 @@
 ---
-title: "Practce"
+title: "Jessica Bernardin"
 output: 
    flexdashboard::flex_dashboard:
     css: flexstyles.css
     social: [ "twitter", "github" ]
     source_code: "https://github.com/jessibernardin/jessibernardin.github.io.git"
     theme: yeti
+    logo: ../img/pitcherplant.svg
 ---
 
 ```{r setup, include=FALSE}
@@ -23,27 +24,104 @@ knitr::opts_knit$set(root.dir = normalizePath("../"))
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-Column {data-width=650}
+Research {.storyboard data-icon="fa-leaf"}
+=========================================
+
+### Dissertation Research  {data-commentary-width=400}
+
+```{r, out.width = '100%'}
+#knitr::include_graphics(paste0(here(),"/img/pictureofsarracenia"))
+```
+
+***
+
+#### **BACKGROUND**
+
+ - background
+    - **bold**
+    - **bold**
+
+#### **KEY QUESTIONS**
+
+ 1. 
+ 
+
+### Microbial function and host health {data-commentary-width=400}
+
+
+```{r m1, out.width = '75%', echo=F, warning=F, message=F}
+suppressPackageStartupMessages({
+  #library(leaflet);
+  library(tidyverse);
+  library(sf);
+  library(mapview);
+  library(shiny);
+  library(plotly)
+})  
+
+```
+
+*** 
+
+### Effect of environmental extremes on microbial function.
+
+ - 
+
+
+### Effect of altitude and successtion on microbial function.
+
+
+
+***
+
+
+### Effect of prey type on microbial function
+
+
+
+Community {.storyboard data-icon="fa-tint"}
+=========================================
+
+### Sustainability Council
+
+### Planting Science Liason and Mentor  {data-commentary-width=400}
+
+### Undergraduate Mentorship
+
+```{r, out.width = '100%'}
+#knitr::include_graphics(paste0(here(),"/img/pic"))
+```
+
+***
+
+#### details
+
+ - 
+ - 
+ - 
+ 
+
+Media {data-icon="fa-map"}
+=========================================
+
+#### video title
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-AWqzzeRBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+Photos {data-icon="fa-picture-o"}
+=========================================
+
+Column {data-width=600}
 -----------------------------------------------------------------------
 
-### Chart A
+<br>
 
-```{r}
+#### **Title**
 
+> *"Quote”* - author
+```{r out.height= '60%', fig.align='center'}
+#knitr::include_graphics(paste0(here(),"/img/image"))
 ```
-
-Column {data-width=350}
------------------------------------------------------------------------
-
-### Chart B
-
-```{r}
-
-```
-
-### Chart C
-
-```{r}
-
-```
-
