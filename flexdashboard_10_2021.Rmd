@@ -6,7 +6,7 @@ output:
     social: [ "twitter", "github" ]
     source_code: "https://github.com/jessibernardin/jessibernardin.github.io.git"
     theme: yeti
-    logo: ../img/pitcherplant.svg
+    logo: ./img/pitcherplant.png
 ---
 
 ```{r setup, include=FALSE}
@@ -79,7 +79,7 @@ suppressPackageStartupMessages({
 
 
 
-Community {.storyboard data-icon="fa-tint"}
+Community {.storyboard data-icon="fa-globe"}
 =========================================
 
 ### Sustainability Council
@@ -101,7 +101,7 @@ Community {.storyboard data-icon="fa-tint"}
  - 
  
 
-Media {data-icon="fa-map"}
+Media {data-icon="fa-television"}
 =========================================
 
 #### video title
@@ -111,7 +111,7 @@ Media {data-icon="fa-map"}
 
 
 
-Photos {data-icon="fa-picture-o"}
+Photos {data-icon="fa-camera-retro"}
 =========================================
 
 Column {data-width=600}
