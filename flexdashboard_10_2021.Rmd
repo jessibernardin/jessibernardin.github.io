@@ -37,13 +37,18 @@ Research {.storyboard data-icon="fa-leaf"}
 
 #### **BACKGROUND**
 
- - background
-    - **bold**
-    - **bold**
+ - Ecosystems are built on the foundation of complex relationships between communities of organisms and their environment.  
+ - Studying these communities is challenging due to the vast geographic ranges of many organisms and the variability present in natural environments (Brown 1999).
+ - Microbial communities provide a good tool to measure patterns in community structure and function.  
+ - Understanding how microbial communities function, how those functions impact their host, and predicting the functional capabilities of complex communities will bolster inferences made on observed patterns across successional and spatial gradients. 
+
 
 #### **KEY QUESTIONS**
 
- 1. 
+ 1. Do divergent microbiome functions impact hosts?
+ 2. How are microbiome functions impacted by environmental extremes?
+ 3. What patterns might be present in microbiome function across elevation and succession?
+ 4. How does host prey type effect microbiome function?
  
 
 ### Microbial function and host health {data-commentary-width=400}
@@ -71,9 +76,7 @@ suppressPackageStartupMessages({
 ### Effect of altitude and successtion on microbial function.
 
 
-
 ***
-
 
 ### Effect of prey type on microbial function
 
@@ -94,21 +97,25 @@ Community {.storyboard data-icon="fa-globe"}
 
 ***
 
-#### details
+#### What we have been up to!
 
- - 
- - 
- - 
+ - Fall 2021, undergraduate researcher, Ace Pedraza is working on testing plant tissue nutrient levels to access host health after hosting divergent microbiomes.  Her lab research involves collecting data, analyzing data using R, and visualizing the results.  She anticipates presenting at the Spring 2022 Undergraduate Research Symposium at BSU.
+ - Summer 2021 SARE student, Franco Nero worked on testing the effect of fly medium on growth rate and substrate use for bacterial communities traditionally grown on cricket medium.
+
+***
+
+#### Want to get involved?
+ - Undergraduate Research
+ - Summer Research
+ - VIP
  
 
 Media {data-icon="fa-television"}
 =========================================
 
-#### video title
+#### Time Lapse Video of *Sarracenia purpurea*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-AWqzzeRBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 
 Photos {data-icon="fa-camera-retro"}
@@ -119,9 +126,18 @@ Column {data-width=600}
 
 <br>
 
-#### **Title**
+#### **Photography**
 
-> *"Quote”* - author
-```{r out.height= '60%', fig.align='center'}
-#knitr::include_graphics(paste0(here(),"/img/image"))
+> *"When words are both true and kind, they can change the world”* - Buddha
+
+```{r out.height= '50%', fig.align='hold'}
+knitr::include_graphics(paste0(here(),"/img/HFIM1244.jpeg"))
+knitr::include_graphics(paste0(here(),"/img/KNTZ2954.jpeg"))
+```
+
+***
+
+```{r out.height= '50%', fig.align='hold'}
+knitr::include_graphics(paste0(here(),"/img/IMG_4403.jpeg"))
+knitr::include_graphics(paste0(here(),"/img/IMG_4091.jpeg"))
 ```
