@@ -1,0 +1,49 @@
+---
+title: "Practce"
+output: 
+   flexdashboard::flex_dashboard:
+    css: flexstyles.css
+    social: [ "twitter", "github" ]
+    source_code: "https://github.com/jessibernardin/jessibernardin.github.io.git"
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+suppressPackageStartupMessages({
+  library(flexdashboard);
+  library(sf);
+  library(leaflet);
+  library(here);
+  library(viridis);
+  library(mapview);
+  library(plotly)
+})
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE)
+knitr::opts_knit$set(root.dir = normalizePath("../"))
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
