@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>latitudinal gradient | Jessica Bernardin</title>
+    <link>https://jessibernardin.github.io/tags/latitudinal-gradient/</link>
+      <atom:link href="https://jessibernardin.github.io/tags/latitudinal-gradient/index.xml" rel="self" type="application/rss+xml" />
+    <description>latitudinal gradient</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Jessica Bernardin</copyright><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jessibernardin.github.io/img/flava.jpeg</url>
+      <title>latitudinal gradient</title>
+      <link>https://jessibernardin.github.io/tags/latitudinal-gradient/</link>
+    </image>
+    
+    <item>
+      <title>Microbial function across time and space</title>
+      <link>https://jessibernardin.github.io/research/2022-11-20-exp-3/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jessibernardin.github.io/research/2022-11-20-exp-3/</guid>
+      <description>
+
+
+&lt;p&gt;A large scale collaborative project funded by NSF to investigate the dynamics in microbial community structure and function across wide scales of time, latitude, and elevation.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/0PjmmH8mZI0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0PjmmH8mZI0&#34;&gt;Sampling Video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

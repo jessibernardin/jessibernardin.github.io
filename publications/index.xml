@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jessica Bernardin</title>
+    <link>https://jessibernardin.github.io/publications/</link>
+      <atom:link href="https://jessibernardin.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Jessica Bernardin</copyright>
+    <image>
+      <url>https://jessibernardin.github.io/img/flava.jpeg</url>
+      <title>Publications</title>
+      <link>https://jessibernardin.github.io/publications/</link>
+    </image>
+    
+  </channel>
+</rss>

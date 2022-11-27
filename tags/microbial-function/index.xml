@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microbial function | Jessica Bernardin</title>
+    <link>https://jessibernardin.github.io/tags/microbial-function/</link>
+      <atom:link href="https://jessibernardin.github.io/tags/microbial-function/index.xml" rel="self" type="application/rss+xml" />
+    <description>microbial function</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Jessica Bernardin</copyright><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jessibernardin.github.io/img/flava.jpeg</url>
+      <title>microbial function</title>
+      <link>https://jessibernardin.github.io/tags/microbial-function/</link>
+    </image>
+    
+    <item>
+      <title>Microbial function across time and space</title>
+      <link>https://jessibernardin.github.io/research/2022-11-20-exp-3/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jessibernardin.github.io/research/2022-11-20-exp-3/</guid>
+      <description>
+
+
+&lt;p&gt;A large scale collaborative project funded by NSF to investigate the dynamics in microbial community structure and function across wide scales of time, latitude, and elevation.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/0PjmmH8mZI0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0PjmmH8mZI0&#34;&gt;Sampling Video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microbial function influences plant traits</title>
+      <link>https://jessibernardin.github.io/research/2022-11-18-exp-1/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jessibernardin.github.io/research/2022-11-18-exp-1/</guid>
+      <description>
+
+
+&lt;p&gt;Aquatic ecosystems are comprised of complex and diverse communities of animals, plants, invertebrates, and microbes, all interacting with each other and their environment. A challenge of working with complex communities is they are often large and vary across different scales. To test community-level hypotheses in a tractable system, we investigated the effect of divergent microbial community function on host health using the purple pitcher plant, &lt;em&gt;Sarracenia purpurea&lt;/em&gt;, as a model system for plant-microbiome interactions. Microbial communities play important roles in mediating the health and stability of ecosystems, where they perform vital functions like cycling nutrients through biosynthesis and decomposition.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2022_08_11_ISME_Poster_Bernardin.jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

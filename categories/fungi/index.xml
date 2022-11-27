@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fungi | Jessica Bernardin</title>
+    <link>https://jessibernardin.github.io/categories/fungi/</link>
+      <atom:link href="https://jessibernardin.github.io/categories/fungi/index.xml" rel="self" type="application/rss+xml" />
+    <description>fungi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Jessica Bernardin</copyright><lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jessibernardin.github.io/img/flava.jpeg</url>
+      <title>fungi</title>
+      <link>https://jessibernardin.github.io/categories/fungi/</link>
+    </image>
+    
+    <item>
+      <title>Fungal diversity found juniper bark</title>
+      <link>https://jessibernardin.github.io/research/fungi-juniper-community-its/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jessibernardin.github.io/research/fungi-juniper-community-its/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;em&gt;Robergea albicedrae&lt;/em&gt; is a fungus that grows on the bark and twigs of a single species of tree, the Ashe juniper (&lt;em&gt;Juniperus ashei&lt;/em&gt;). First described in 1910, the fungus has been reassigned at the generic and family levels several times over the past century and is now classified in Stictidaceae.&lt;/p&gt;
+&lt;p&gt;Historically, ascomycete fungi have been classified based on key morphological characteristics such as spore size and shape, ascus morphology, and biochemical indicators. This approach has resulted in groups of organisms that are microscopically and macroscopically similar, however, in some situations these groupings are not supported by the results of modern phylogenetic studies.&lt;/p&gt;
+&lt;p&gt;The goal of my study was to provide new morphological and molecular data to better understand the life cycle and relationships of the species.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+---
+title: Microbial function across time and space
+author: Jessica Bernardin
+date: '2022-11-20'
+categories:
+  - microbial ecology
+  - latitudinal gradient
+  - microbial function
+tags:
+  - microbial ecology
+  - latitudinal gradient
+  - microbial function
+subtitle: ''
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: yes
+summary: 'Collaborative project investigating the shift in microbial function across time and latidude.'
+authors: []
+lastmod: '2022-11-20'
+featured: no
+
+---
+
+A large scale collaborative project funded by NSF to investigate the dynamics in microbial community structure and function across wide scales of time, latitude, and elevation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0PjmmH8mZI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Sampling Video](https://www.youtube.com/watch?v=0PjmmH8mZI0)
